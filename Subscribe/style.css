@@ -1,0 +1,31 @@
+.FieldInfo {
+    color: rgb(215, 174, 44);
+    font-family: Bitter, Georgia, "Times New Roman", Times, serif;
+    font-size: 1.2em;
+}
+
+.CommentBlock {
+    background-color: red;
+    /*#F6F7F9;*/
+}
+
+
+/* Base */
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+    line-height: 1.7;
+    color: gray;
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+
+.success {
+    color: yellow;
+    font-family: Bitter, Georgia, "Times New Roman", Times, serif;
+    font-size: 1.4em;
+    font-weight: bold;
+}
